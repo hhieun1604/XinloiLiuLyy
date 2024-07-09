@@ -51,7 +51,7 @@ function generateMessage(noCount) {
     "Anh yeu em",
     "Cậu có yêu tớ không? Có thì bấm Oteeee đi <3",
     "Vẫn không bấm Oteee hả :((. Thế chắc là giận thật rồi",
-    "Thôi dừng lại ở đây thôi. Hiếu không dỗ đc nữa rồi.",
+    "Hu hu dị là bạn Hiếu không dỗ đc rồi.",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
